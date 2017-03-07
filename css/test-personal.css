@@ -13,81 +13,83 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-	text-align: center;
-	position: relative;
 	text-decoration: none;
-    color: #999;
-
+    color: #333;
 }
+
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
+
 p {
     font-size: 1.2em;
     line-height: 1.2em;
-    color: #333;
+    color: #222;
 	position: relative;
 	left: 20%;
-	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 70%;
-	font-family: 'Garamond';
+	width: 80%;
+	font-family: 'Garamond', 'Times New Roman', 'Serif';
 }
 
 code {
 	font-size: 1em;
-	font-family:'Garamond';
+	font-family:'Garamond', 'Times New Roman', 'Serif';
 }
 
 p code {
 	position: absolute;
-	left: -18%;
+	left: -20%;
 }
 
 h1 {
-	color: #222;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: #111;
+	font-size: 3em;
 	text-align: center;
-	font-size: 2.2em;
-	line-height: 1em;
 	position: relative;
-
-}
-
-h1+p {
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
-	line-height: 2em;
-	margin-top: 0.1em;
-	margin-bottom: 0em !important;
 }
 
 h2 {
 	text-align: center;
 	position: relative;
-
+	line-height: 0em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 1.4em;
 }
 
 h2+p {
-	margin-top: 2.1em;
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.5em;
+	color: #222;
+	position: relative;
+	left: 10%;
+	text-align: center;
 }
 
 h3 {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1.5em;
-	line-height: 2em;
-	color: #333;
+	line-height: 1em;
+	color: #222;
 	position: relative;
-	top: 1.5em;
-	width: 25%;
+	top: .5em;
+	width: 70%;
 }
 
-h3+p {
-	margin-top: 2.1em;
+h4 {
+	font-family:'Garamond', 'Times New Roman', 'Serif';
+	font-size: 1.4em;
+	color: #222;
+	position: relative;
+	left: 0%;
+	font-weight: normal;
+	font-style: italic;
+	line-height: .0em;
+	top: 0.5em;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;

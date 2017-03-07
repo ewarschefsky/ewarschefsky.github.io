@@ -3,128 +3,85 @@ layout: cv
 title: CV
 ---
 
-# Emily J. Warschefsky  
+# Emily J. Warschefsky
+## PhD Candidate, Plant Evolutionary Biology  
+Florida International University  
+Department of Biological Sciences  
+11200 SW 8th Street, Miami, Florida, USA  
+<a href="mailto:e.warschefsky@gmaillcom">e.warschefsky@gmail.com</a>
 
-## PhD Candidate, Plant Evolutionary Biology
-
-<div id="webaddress">
-<a href="mailto:e.warschefsky@gmaillcom">e.warschefsky at gmail dot com</a>
-</div>
+---
 
 ### Education
 
-`2011-` **Ph.D., Biology** _Florida International University, Miami, FL_ 2011-  
+`2011-` **Ph.D., Biology** Florida International University, Miami, FL  
 (supervisor: Eric von Wettberg) 
 
-**B.A., Biology** _Reed College, Portland, OR_ 2009  
-(Phi Beta Kappa)
+`2009` **B.A., Biology** Reed College, Portland, OR  
+Undergraduate thesis: A nematode model for an inconvenient and deadly disease: Using *Caenorhabditis elegans* to investigate the pathogenesis of enterotoxigenic _Escherichia coli_  
+(Commendation for Excellence in Scholarship, Phi Beta Kappa)
 
 ### Positions Held
 
-`2016-` Predoctoral Fellow _USDA Agriculture and Food Research Initiative_   
-`2015` Dissertation Evidence Acquisition Fellow _Florida International University_  
-`2013-2014` Research Assistant _Feed the Future Innovation Laboratory, Florida International University_  
-`2012` Graduate Assistant _The Fairchild Challenge Education Program_  
-`2011` Teaching Assistant _Florida International University_  
-`2009-2010` Plant Conservation Research Assistant _Fairchild Tropical Botanic Garden_
+`2016-` Predoctoral Fellow, USDA Agriculture and Food Research Initiative   
+`2015` Dissertation Evidence Acquisition Fellow, Florida International University  
+`2013-2014` Research Assistant, Feed the Future Innovation Laboratory, Florida International University  
+`2012` Graduate Assistant, The Fairchild Challenge Education Program  
+`2011` Teaching Assistant, Florida International University  
+`2009-2010` Plant Conservation Research Assistant, Fairchild Tropical Botanic Garden
 
-### Grants and Awards
-__Active__
+### Publications
+**Warschefsky, E.,** Klein, L., Frank, M., Londo, J., von Wettberg, E.J.B., Chitwood, D., and Miller, A.J. COVER, FEATURE REVIEW: Rootstocks: diversity, domestication and impacts on shoot phenotypes. Trends in Plant Science 21(5): 418-437.
 
-*Next Generation Genebank Management of __Mangifera indica__
+Roorkiwal, M., E.J.B. von Wettberg, H. Upadhyay, **E. Warschefsky,** A. Rathore, and R. Varshney. (2014). Exploring germplasm diversity to understand the domestication process in Cicer spp. using SNP and DArT markers. PLoS ONE 9(7): e102016.
+
+**Warschefsky, E.,** R. Penmetsa, D. Cook, and E.J.B. von Wettberg. (2014). Back to the wilds: Tapping evolutionary adaptations for resilient crops through systematic hybridization with crop wild relatives. American Journal of Botany 101(10): 1791-1800.
+
+#### Manuscrips in Submission
+
+#### Manuscrips in Preparation
+
+#### Popular Press
+
+### Grants and Fellowships
+#### **Active**
+`2016-`**Next Generation Genebank Management of _Mangifera indica_**  
+Funding agency: USDA National Institute of Food and Agriculture  
+Award amount: $79,000  
+Role on grant: PI
+
+`2015-`**Evolution and Domestication Genetics of the Mango**  
+Funding agency: NSF Doctoral Dissertation Improvement Grant  
+Award amount: $18,850
+Role on grant: Co-PI
+
+#### Completed
+`2015` Florida International University Dissertation Evidence Acquisition Fellowship ($10,000)  
+`2015` Singapore Botanic Gardens Fellowship ($1,200)  
+`2015` Fairchild Graduate Studies Dissertation Grant ($5,000)  
+`2014` Botanical Society of America Graduate Student Research Award ($500)  
+`2014` American Society of Plant Taxonomists Graduate Student Research Grant ($800)  
+`2013` Kelly Foundation Graduate Award for Tropical Botany ($300)  
+`2012` Florida Native Plant Society Graduate Research Grant ($1,500)  
+`2008` Garden Club of America's Zeller Summer Scholarship in Medicinal Botany ($1,500)
+
+### Awards and Honors
+`2016` Sigma Xi  
+`2012` AAAS/Science Program for Excellence in Science  
+`2009` Phi Beta Kappa Society  
+`2009` Academic Commendation
 
 ### Select Presentations
 
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+### Teaching Experience
 
-MRC IGMM research seminars and section meetings (_various_)
+### Research Experience
 
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+### Service
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+### Professional Affiliations
 
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
+### International Field & Herbarium Experience
 
-### Publications
+### Programming and Analytic Experience
 
-<!-- ### Journals -->
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 10.1093/nar/gkw100.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Technical skills
-
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
-* Python
-* Machine learning
-* Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Professional Affiliations
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
-
-## References
-
-Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
