@@ -56,8 +56,8 @@ Award amount: $18,850
 Role on grant: Co-PI
 
 #### Completed
-`2017` Botanical Society of America International Botanical Congress Travel Award ($2,400)
-`2016` International Center for Tropical Botany Travel Award ($2,000)
+`2017` Botanical Society of America International Botanical Congress Travel Award ($2,400)  
+`2016` International Center for Tropical Botany Travel Award ($2,000)  
 `2015` Florida International University Dissertation Evidence Acquisition Fellowship ($10,000)  
 `2015` Singapore Botanic Gardens Fellowship ($1,200)  
 `2015` Fairchild Graduate Studies Dissertation Grant ($5,000)  
