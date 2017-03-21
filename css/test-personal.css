@@ -39,7 +39,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -20%;
+	left: -23%;
 }
 
 h1 {
@@ -60,12 +60,13 @@ h2 {
 
 h2+p {
 	font-size: 1.2em;
-	font-weight: bold;
+	font-weight: normal;
 	line-height: 1.5em;
 	color: #222;
 	position: relative;
 	left: 10%;
 	text-align: center;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h3 {
