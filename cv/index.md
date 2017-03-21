@@ -86,7 +86,7 @@ Role on grant: Co-PI
 `2009` Academic Commendation
 
 ### Select Presentations
-`2017` **Warschefsky, E.** **INVITED** Domestication genetics of the mango (Mangifera indica L.) Annual Plant and Animal Genome Conference. San Diego, CA.
+`2017` **Warschefsky, E.** and E.J. von Wettberg. **INVITED** Domestication genetics of the mango (Mangifera indica L.) Annual Plant and Animal Genome Conference. San Diego, CA.
 
 `2016` **Warschefsky, E.** and E.J. von Wettberg. A fruitful endeavor: Using RADseq to reveal the evolutionary relationships of the mango genus. Annual Meeting of the Botanical Society of America. Savannah, GA.
 
